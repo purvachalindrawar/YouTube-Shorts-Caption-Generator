@@ -3,3 +3,4 @@ yt-dlp
 faster-whisper
 torch
 json2video
+ffmpeg-python
